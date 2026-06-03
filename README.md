@@ -19,7 +19,7 @@
   
 - Currently available for Freelance, Part-time, and Full-time opportunities where I can make an immediate impact.
   
-- Beyond standard development, I actively build AI-integrated workflows, compete in hackathons, and continuously network within the global tech community to stay at the bleeding edge.
+- Beyond standard development, I actively build AI-integrated workflows, compete in hackathons, and continuously network within the global tech community.
 
 ---
 
