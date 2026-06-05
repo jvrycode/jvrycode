@@ -17,7 +17,7 @@
   
 - I specialize in developing scalable, maintainable software solutions, with a strong emphasis on clean architecture, high performance, and the seamless integration of modern AI technologies.
   
-- Currently available for Freelance, Part-time, and Full-time opportunities where I can make an immediate impact.
+- Currently available for Freelance, Part-time, and Full-time opportunities.
   
 - Beyond standard development, I actively build AI-integrated workflows, compete in hackathons, and continuously network within the global tech community.
 
