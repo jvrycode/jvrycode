@@ -15,7 +15,7 @@
 
 - Hey! I'm a Full-Stack Developer with over 5 years of hands-on experience building dynamic web and mobile applications.
   
-- I specialize in developing scalable, maintainable software solutions, with a strong emphasis on adaptive architecture, high performance, and the seamless integration of modern AI technologies.
+- I specialize in developing scalable, maintainable software solutions, with a strong emphasis on adaptive architecture, high performance, and the integration of modern AI technologies.
   
 - Currently available for Freelance, Part-time, and Full-time opportunities.
   
