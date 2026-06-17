@@ -19,7 +19,7 @@
   
 - Currently available for Freelance, Part-time, and Full-time opportunities.
   
-- Beyond standard development, I actively create AI-integrated workflows, compete in hackathons, and continuously network within the global tech community.
+- Beyond standard development, I actively create AI-integrated workflows, compete in a lot of hackathons, and continuously network within the global tech community.
 
 ---
 
