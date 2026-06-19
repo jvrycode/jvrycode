@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hey there! I'm John Viray (jvrycode)</h3>
+  <h3>Hey! I'm John Viray (jvrycode)</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Versatile+Fullstack+Developer;Building+AI-Driven+Systems;Creating+Scalable+Architecture" alt="Typing SVG" />
   
   <p>
@@ -13,7 +13,7 @@
 
 ### About Me
 
-- Hey! I'm a Full-Stack Developer with over 5 years of hands-on experience building dynamic web and mobile applications.
+- I'm a Full-Stack Developer with over 5 years of hands-on experience building dynamic web and mobile applications.
   
 - I specialize in developing scalable, maintainable software solutions, with a strong emphasis on adaptive architecture, high performance, and the integration of modern AI technologies.
   
