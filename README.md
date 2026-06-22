@@ -13,7 +13,7 @@
 
 ### About Me
 
-- I'm a Full-Stack Developer with over 5 years of hands-on experience building dynamic web and mobile applications.
+- I'm a Full-Stack Developer with over 5 years of hands-on experience building web and mobile applications.
   
 - I specialize in developing scalable, maintainable software solutions, with a excellent emphasis on adaptive architecture, high performance, and the integration of modern AI technologies.
   
